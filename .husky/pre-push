@@ -5,6 +5,6 @@
 cd "$(dirname "$0")/.."
 
 echo "Buildeando la aplicacion"
-dotnet build Tienda-UCN-api.csproj --no-restore --verbosity quiet
+dotnet build Tienda.csproj --no-restore --verbosity quiet
 
 echo "Chequeo del pre-push completado"
