@@ -23,4 +23,4 @@ else
     echo "No hay archivos de C#"
 fi
 
-echo "Chequeo del pre-commit pasado"
+echo "Chequeo del pre-commit pasado"echo 'Husky.Net is awesome!'
